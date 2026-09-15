@@ -1,0 +1,5 @@
+name,status,peak_date,trough_date,peak_price,trough_price,pct_decline,trading_days_peak_to_trough,regime_data_covers_peak,warmup_gap_trading_days,detection_lag_days,recovery_date,recovery_days_from_trough
+2008 Global Financial Crisis,ok,2008-01-08,2008-10-27,6287.9,2524.2,-0.5986,198,False,174.0,174,2010-11-09,496
+2013 Taper Tantrum,ok,2013-05-17,2013-08-28,6187.3,5285.0,-0.1458,71,True,,9,2013-10-18,34
+2020 Covid Crash,ok,2020-01-14,2020-03-23,12362.3,7610.2,-0.3844,47,True,,3,2020-11-09,158
+2024 Election/Budget Volatility,ok,2024-09-26,2024-11-21,26216.1,23349.9,-0.1093,37,True,,3,2026-01-02,278

@@ -367,6 +367,7 @@ const gaps = [
   "No PyMC/NUTS \u2014 conjugate posteriors used instead (no R-hat/ESS by construction; R's MCMCpack model does have real diagnostics)",
   "No foundation models (Chronos/TimesFM) \u2014 no Hugging Face access in this sandbox",
   "Fixed feature alignment made R/Python HMM agreement WORSE (25.7%\u21922.8%) \u2014 revealed EM local-optima instability, a deeper issue than feature mismatch",
+  "Added this pass: standalone case-study deep-dive report + git repo committed and submission-ready",
   "Not built: demo video (full script provided instead), GitHub repo transfer \u2014 outside this tool's capability / requires account owner",
 ];
 s.addText(gaps.map(g => ({ text: g, options: { bullet: true, breakLine: true } })),
