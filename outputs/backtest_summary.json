@@ -1,0 +1,15 @@
+{
+  "information_ratio": 0.07142010788351617,
+  "tracking_error": 0.05212472639103907,
+  "cagr_strategy": 0.1537841254220491,
+  "cagr_buyhold": 0.14181512046258615,
+  "max_dd_strategy": -0.289626534629145,
+  "max_dd_buyhold": -0.3843985245274212,
+  "tilt_rules": {
+    "Risk-On": 1.15,
+    "Late-Cycle": 1.05,
+    "Transitional": 1.0,
+    "Post-Shock": 0.75,
+    "Risk-Off": 0.55
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "conformal": {
+    "qhat": 0.7648,
+    "avg_set_size": 1.3291,
+    "empirical_coverage": 0.9312
+  },
+  "reconciliation": {
+    "agreement_rate": 0.0279,
+    "n_matched_days": 4303
+  }
+}

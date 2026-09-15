@@ -1,0 +1,19 @@
+{
+  "ensemble_used": "BMA",
+  "qhat": 0.5843422442533014,
+  "avg_conformal_set_size": 0.9827044025157232,
+  "empirical_coverage": 0.8694968553459119,
+  "ece": 0.10659038392352739,
+  "bma_weights": {
+    "HMM": 0.0,
+    "MC-Dropout": 1.0,
+    "DeepEnsemble": 1.1439060300474476e-29
+  },
+  "stacking_weights": {
+    "HMM": 0.1373169680396977,
+    "MC-Dropout": 0.4416633734609039,
+    "DeepEnsemble": 0.4210196584993984
+  },
+  "ground_truth": "rules_based_independent",
+  "hmm_vs_rules_based_agreement": 0.21936758893280633
+}
